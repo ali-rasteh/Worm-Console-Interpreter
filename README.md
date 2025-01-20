@@ -20,7 +20,7 @@ cd Worm-Console-Interpreter
 
 - Compile the program using a C++ compiler:
 ```sh
-g++ -o worm_interpreter main.cpp
+g++ -o worm_interpreter Worm-Console-Interpreter.cpp
 ```
 
 - Run the interpreter:
@@ -35,5 +35,3 @@ Once the interpreter is running, you can enter commands directly into the consol
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 For more information, visit the repository.
-
-Feel free to modify and extend the interpreter to suit your needs!
